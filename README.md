@@ -71,8 +71,3 @@ Este script utiliza Python y la biblioteca `netmiko` para buscar una dirección 
     - Las credenciales.
     - Que el switch esté accesible por la red.
     - Que los comandos requeridos estén habilitados.
-
-- **Seguridad**:
-  - Usa este script únicamente en entornos controlados y asegúrate de proteger las credenciales de acceso a los switches.
-
-¡Listo! Con estos pasos podrás utilizar el script para buscar direcciones MAC en tu red de switches Cisco.
